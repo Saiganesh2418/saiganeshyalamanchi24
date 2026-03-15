@@ -36,9 +36,9 @@ Currently exploring opportunities in:
 I’m always excited to collaborate, learn, and grow together in the world of **technology, innovation, and entrepreneurship**.  
 
 📫 Reach out to me here:  
-- [LinkedIn](https://www.linkedin.com/in/saiganesh-durgarao-yalamanchi)  
-- [GitHub](https://github.com/saiganeshyalamanchi)  
-- 📧 Email: **saiganeshyalamanchi@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/saiganesh-yalamanchi-714801309)  
+- [GitHub](https://github.com/Saiganesh2418)  
+- 📧 Email: **saiganeshyalamanchidurgarao@gmail.com**
 
 ---
 
