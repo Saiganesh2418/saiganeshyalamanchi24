@@ -103,7 +103,7 @@ export default function Footer() {
           <p className="text-xs" style={{ color: t.textFaint }}>
             © {new Date().getFullYear()} Saiganesh Durgarao Yalamanchi. All rights reserved.
           </p>
-          <p className="text-xs" style={{ color: t.accentText }}>Last updated on 16 March 2026</p>
+          <p className="text-xs" style={{ color: t.accentText }}>Last updated on 3 April 2026</p>
         </div>
       </div>
     </footer>
