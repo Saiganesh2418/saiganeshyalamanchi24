@@ -71,12 +71,6 @@ export default function Footer() {
                   <span className="break-all">Saiganeshyalamanchidurgarao@gmail.com</span>
                 </a>
               </li>
-              <li>
-                <a href="tel:+918828083662" className="flex items-center gap-2 text-xs transition-colors" style={{ color: t.textMuted }}>
-                  <Phone size={14} className="shrink-0" />
-                  +91 8828083662
-                </a>
-              </li>
               <li className="flex items-center gap-2 text-xs" style={{ color: t.textMuted }}>
                 <MapPin size={14} className="shrink-0" />
                 Mumbai, Maharashtra, India
